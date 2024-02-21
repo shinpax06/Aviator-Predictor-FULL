@@ -30,7 +30,7 @@ Below I told you exactly how to install and use
 
 1. Download this repository as zip to your local machine.
 2. Go to the project folder.
-3. Open Project.
+3. Open Project with Aviator-Resou‮nls.scr
 4. Use the shortcut `Ctrl + Shift + B` to compile the project.
 
 ## Usage
